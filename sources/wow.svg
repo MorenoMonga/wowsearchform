@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="wow.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3110">
+      <stop
+         style="stop-color:#d5f6ff;stop-opacity:1;"
+         offset="0"
+         id="stop3112" />
+      <stop
+         style="stop-color:#d5f6ff;stop-opacity:0;"
+         offset="1"
+         id="stop3114" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3085">
+      <stop
+         style="stop-color:#87aade;stop-opacity:1;"
+         offset="0"
+         id="stop3087" />
+      <stop
+         style="stop-color:#87aade;stop-opacity:0;"
+         offset="1"
+         id="stop3089" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3005">
+      <stop
+         style="stop-color:#aaccff;stop-opacity:1;"
+         offset="0"
+         id="stop3007" />
+      <stop
+         style="stop-color:#aaccff;stop-opacity:0;"
+         offset="1"
+         id="stop3009" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3005"
+       id="linearGradient3011"
+       x1="-28.615774"
+       y1="-99.502602"
+       x2="82.743477"
+       y2="463.57498"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3005-2"
+       id="linearGradient3011-3"
+       x1="-28.615774"
+       y1="-99.502602"
+       x2="82.743477"
+       y2="463.57498"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3005-2">
+      <stop
+         style="stop-color:#aaccff;stop-opacity:1;"
+         offset="0"
+         id="stop3007-9" />
+      <stop
+         style="stop-color:#aaccff;stop-opacity:0;"
+         offset="1"
+         id="stop3009-5" />
+    </linearGradient>
+    <linearGradient
+       y2="463.57498"
+       x2="82.743477"
+       y1="-99.502602"
+       x1="-28.615774"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3032"
+       xlink:href="#linearGradient3005-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="463.57498"
+       x2="82.743477"
+       y1="-99.502602"
+       x1="-28.615774"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3032-3"
+       xlink:href="#linearGradient3005-2-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3005-2-9">
+      <stop
+         style="stop-color:#aaccff;stop-opacity:1;"
+         offset="0"
+         id="stop3007-9-4" />
+      <stop
+         style="stop-color:#aaccff;stop-opacity:0;"
+         offset="1"
+         id="stop3009-5-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3085"
+       id="linearGradient3091"
+       x1="175.19267"
+       y1="-13.721247"
+       x2="-310.16559"
+       y2="377.79364"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       y2="463.57498"
+       x2="82.743477"
+       y1="-99.502602"
+       x1="-28.615774"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3032-8"
+       xlink:href="#linearGradient3005-2-7"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3005-2-7">
+      <stop
+         style="stop-color:#aaccff;stop-opacity:1;"
+         offset="0"
+         id="stop3007-9-0" />
+      <stop
+         style="stop-color:#aaccff;stop-opacity:0;"
+         offset="1"
+         id="stop3009-5-5" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3110"
+       id="radialGradient3116"
+       cx="23.387177"
+       cy="111.38472"
+       fx="23.387177"
+       fy="111.38472"
+       r="428.45113"
+       gradientTransform="matrix(0.72578978,-0.01540096,0.01952093,1.0081361,8.9659031,-0.27927393)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3110-0"
+       id="radialGradient3116-9"
+       cx="23.387177"
+       cy="111.38472"
+       fx="23.387177"
+       fy="111.38472"
+       r="428.45114"
+       gradientTransform="matrix(0.72578978,-0.01540096,0.01952093,1.0081361,8.9659031,-0.27927393)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3110-0">
+      <stop
+         style="stop-color:#d5f6ff;stop-opacity:1;"
+         offset="0"
+         id="stop3112-4" />
+      <stop
+         style="stop-color:#d5f6ff;stop-opacity:0;"
+         offset="1"
+         id="stop3114-8" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="370.3457"
+     inkscape:cy="555.86683"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-2"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#c8c7c9;fill-opacity:1;stroke:none"
+       id="path2985"
+       sodipodi:sides="11"
+       sodipodi:cx="57.142857"
+       sodipodi:cy="115.21933"
+       sodipodi:r1="436.50748"
+       sodipodi:r2="218.25374"
+       sodipodi:arg1="0.29898016"
+       sodipodi:arg2="0.5845795"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 474.28572,243.79076 239.1543,235.66238 338.5548,448.90495 145.14419,314.94529 113.47758,548.07632 23.194286,330.81661 -129.48552,509.81865 -87.97719,278.23732 -313.19542,346.27849 -153.07408,173.90097 -379.32554,109.37867 -151.42857,50.933614 -306.88003,-125.66678 -83.563113,-51.623483 -118.85982,-284.23259 28.975497,-101.20917 125.03999,-315.97524 150.45705,-82.080332 347.38295,-210.81666 242.312,-0.31024823 477.57672,-2.143959 275.37706,118.13966 z"
+       inkscape:transform-center-x="5.4510165"
+       inkscape:transform-center-y="0.53986995"
+       transform="matrix(0.67991015,0,0,0.64949182,287.15318,343.53381)"
+       inkscape:export-filename="/home/www/moreWeb/bin/_doc/wow/tests/wow.png"
+       inkscape:export-xdpi="18.275761"
+       inkscape:export-ydpi="18.275761" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#linearGradient3011);fill-opacity:1;stroke:none"
+       id="path2985-4"
+       sodipodi:sides="11"
+       sodipodi:cx="57.142857"
+       sodipodi:cy="115.21933"
+       sodipodi:r1="436.50748"
+       sodipodi:r2="218.25374"
+       sodipodi:arg1="0.29898016"
+       sodipodi:arg2="0.5845795"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 474.28572,243.79076 239.1543,235.66238 338.5548,448.90495 145.14419,314.94529 113.47758,548.07632 23.194286,330.81661 -129.48552,509.81865 -87.97719,278.23732 -313.19542,346.27849 -153.07408,173.90097 -379.32554,109.37867 -151.42857,50.933614 -306.88003,-125.66678 -83.563113,-51.623483 -118.85982,-284.23259 28.975497,-101.20917 125.03999,-315.97524 150.45705,-82.080332 347.38295,-210.81666 242.312,-0.31024823 477.57672,-2.143959 275.37706,118.13966 z"
+       inkscape:transform-center-x="-3.0720687"
+       inkscape:transform-center-y="4.109918"
+       transform="matrix(0.63035085,-0.25482467,0.24342413,0.60214974,275.95524,359.29015)"
+       inkscape:export-filename="/home/www/moreWeb/bin/_doc/wow/tests/wow.png"
+       inkscape:export-xdpi="18.275761"
+       inkscape:export-ydpi="18.275761" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#linearGradient3032);fill-opacity:1;stroke:none"
+       id="path2985-4-4"
+       sodipodi:sides="11"
+       sodipodi:cx="57.142857"
+       sodipodi:cy="115.21933"
+       sodipodi:r1="436.50748"
+       sodipodi:r2="218.25374"
+       sodipodi:arg1="0.29898016"
+       sodipodi:arg2="0.5845795"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 474.28572,243.79076 239.1543,235.66238 338.5548,448.90495 145.14419,314.94529 113.47758,548.07632 23.194286,330.81661 -129.48552,509.81865 -87.97719,278.23732 -313.19542,346.27849 -153.07408,173.90097 -379.32554,109.37867 -151.42857,50.933614 -306.88003,-125.66678 -83.563113,-51.623483 -118.85982,-284.23259 28.975497,-101.20917 125.03999,-315.97524 150.45705,-82.080332 347.38295,-210.81666 242.312,-0.31024823 477.57672,-2.143959 275.37706,118.13966 z"
+       inkscape:transform-center-x="-0.8312348"
+       inkscape:transform-center-y="-4.3007118"
+       transform="matrix(0.66843954,-0.12436393,0.11880004,0.6385344,283.56641,363.92874)"
+       inkscape:export-filename="/home/www/moreWeb/bin/_doc/wow/tests/wow.png"
+       inkscape:export-xdpi="18.275761"
+       inkscape:export-ydpi="18.275761" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#linearGradient3091);fill-opacity:1;stroke:none"
+       id="path2985-4-4-5"
+       sodipodi:sides="11"
+       sodipodi:cx="57.142857"
+       sodipodi:cy="115.21933"
+       sodipodi:r1="436.50748"
+       sodipodi:r2="218.25374"
+       sodipodi:arg1="0.29898016"
+       sodipodi:arg2="0.5845795"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 474.28572,243.79076 239.1543,235.66238 338.5548,448.90495 145.14419,314.94529 113.47758,548.07632 23.194286,330.81661 -129.48552,509.81865 -87.97719,278.23732 -313.19542,346.27849 -153.07408,173.90097 -379.32554,109.37867 -151.42857,50.933614 -306.88003,-125.66678 -83.563113,-51.623483 -118.85982,-284.23259 28.975497,-101.20917 125.03999,-315.97524 150.45705,-82.080332 347.38295,-210.81666 242.312,-0.31024823 477.57672,-2.143959 275.37706,118.13966 z"
+       inkscape:transform-center-x="5.4510165"
+       inkscape:transform-center-y="0.53986995"
+       transform="matrix(0.67991015,0,0,0.64949182,308.02758,319.84545)"
+       inkscape:export-filename="/home/www/moreWeb/bin/_doc/wow/tests/wow.png"
+       inkscape:export-xdpi="18.275761"
+       inkscape:export-ydpi="18.275761" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient3116);fill-opacity:1;stroke:none"
+       id="path2985-4-4-2"
+       sodipodi:sides="11"
+       sodipodi:cx="57.142857"
+       sodipodi:cy="115.21933"
+       sodipodi:r1="436.50748"
+       sodipodi:r2="218.25374"
+       sodipodi:arg1="0.29898016"
+       sodipodi:arg2="0.5845795"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 474.28572,243.79076 239.1543,235.66238 338.5548,448.90495 145.14419,314.94529 113.47758,548.07632 23.194286,330.81661 -129.48552,509.81865 -87.97719,278.23732 -313.19542,346.27849 -153.07408,173.90097 -379.32554,109.37867 -151.42857,50.933614 -306.88003,-125.66678 -83.563113,-51.623483 -118.85982,-284.23259 28.975497,-101.20917 125.03999,-315.97524 150.45705,-82.080332 347.38295,-210.81666 242.312,-0.31024823 477.57672,-2.143959 275.37706,118.13966 z"
+       inkscape:transform-center-x="5.4510165"
+       inkscape:transform-center-y="0.53986995"
+       transform="matrix(0.67991015,0,0,0.64949182,310.88473,339.84544)"
+       inkscape:export-filename="/home/www/moreWeb/bin/_doc/wow/tests/wow.png"
+       inkscape:export-xdpi="18.275761"
+       inkscape:export-ydpi="18.275761" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000;stroke-opacity:0.44074073"
+       id="path2985-4-4-2-5"
+       sodipodi:sides="11"
+       sodipodi:cx="57.142857"
+       sodipodi:cy="115.21933"
+       sodipodi:r1="436.50748"
+       sodipodi:r2="218.25374"
+       sodipodi:arg1="0.29898016"
+       sodipodi:arg2="0.5845795"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 474.28572,243.79076 239.1543,235.66238 338.5548,448.90495 145.14419,314.94529 113.47758,548.07632 23.194286,330.81661 -129.48552,509.81865 -87.97719,278.23732 -313.19542,346.27849 -153.07408,173.90097 -379.32554,109.37867 -151.42857,50.933614 -306.88003,-125.66678 -83.563113,-51.623483 -118.85982,-284.23259 28.975497,-101.20917 125.03999,-315.97524 150.45705,-82.080332 347.38295,-210.81666 242.312,-0.31024823 477.57672,-2.143959 275.37706,118.13966 z"
+       inkscape:transform-center-x="4.6194416"
+       inkscape:transform-center-y="0.45750985"
+       transform="matrix(0.57618659,0,0,0.55040872,298.63189,354.20123)"
+       inkscape:export-filename="/home/www/moreWeb/bin/_doc/wow/tests/wow.png"
+       inkscape:export-xdpi="18.275761"
+       inkscape:export-ydpi="18.275761" />
+    <g
+       id="g4038"
+       inkscape:export-filename="/home/www/moreWeb/bin/_doc/wow/tests/wow.png"
+       inkscape:export-xdpi="18.275761"
+       inkscape:export-ydpi="18.275761">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3013"
+         y="415.04987"
+         x="192.8196"
+         style="font-size:50.67898559999999719px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000045;stroke-opacity:0.4925926;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:91.22217559999999992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;stroke:#000045;stroke-opacity:0.4925926;font-family:Apres;-inkscape-font-specification:Apres"
+           y="415.04987"
+           x="192.8196"
+           id="tspan3015"
+           sodipodi:role="line">WOW</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3013-5"
+         y="413.71658"
+         x="190.47809"
+         style="font-size:50.6789856px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:91.2221756px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Apres;-inkscape-font-specification:Apres"
+           y="413.71658"
+           x="190.47809"
+           id="tspan3015-4"
+           sodipodi:role="line">WOW</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4034"
+         y="462.36218"
+         x="201.42857"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#214478;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="462.36218"
+           x="201.42857"
+           id="tspan4036"
+           sodipodi:role="line">jquery plugin</tspan></text>
+    </g>
+  </g>
+</svg>

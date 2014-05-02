@@ -1,0 +1,36 @@
+body{padding:3px 50px;font-family:sans-serif;background:#F0F5FF;}
+h1{color:#2680C3;margin:-20px 0 0 0;padding:0;}
+h1 span{font-size:0.8em;color:#0C3F66;font-weight:normal;padding-right:20px;}
+a{color:#444; text-decoration:none;cursor:pointer;}
+.wrapper{
+	background:#fff;
+	margin: 40px 50px 30px 50px;
+	padding:2px 20px 10px 20px;
+	border:2px solid #A8C8D7;
+	border-radius:9px;
+	-moz-box-shadow: 0 0 30px #CFD5DD;
+	-webkit-box-shadow: 0 0 30px #CFD5DD;
+	box-shadow: 0 0 30px #CFD5DD;
+	}
+.menu{font-size:14px;display:block;list-style:none;float:right;border-right:0px solid #ccc;margin:0 10px;}
+.menu li{display:block;float:left;}
+.menu li a{display:block;padding:9px 20px 3px 20px;position:relative;color:#959595;border-top-left-radius:6px;border-top-right-radius:6px;}
+.menu li a.selected{font-weight:bold;background:#fff;border-left:2px solid #A8C8D7;border-top:2px solid #A8C8D7;border-right:2px solid #A8C8D7;color:#2680C3;padding-bottom:9px;}
+.menu li a:hover,.menu li a:active{color:#000;}
+
+.selector{width:100%;font-size:14px;display:block;list-style:none;float:left;border-right:0px solid #ccc;margin-bottom:1px;}
+.selector .title{padding:13px 5px 8px 0;color:#7A8DBE;}
+.selector li{display:block;float:left;}
+.selector li a{display:block;padding:13px 20px 7px 20px;background:#EAE6E3;border:1px solid #ccc;border-bottom:0;position:relative;color:#959595;}
+.selector li a.selected{font-weight:bold;background:#fff;border-bottom:0;border-left:1px solid #ccc;color:#2680C3;padding-bottom:9px;}
+.selector li a:hover,.selector li a:active{color:#000;}
+
+.sommario{padding-left: 130px;color: #0C3F66;}
+.sommario .highlight{text-decoration:blink;color: #2B6FC9;}
+.item{ margin: 20px 50px;padding:25px 40px 4px 40px;border:1 px solid #ccc;border-top:1px solid #C1DDEB;color:#3C4866;font-size:0.9em;}
+.footer{ margin-top: 12px;width:100%;text-align:center; font-size:0.8em;color:#A7B1C2}
+.footer a{ color:#A7B1C2;text-decoration:none;}
+/*button{ min-width: 100px; min-height:40px;}*/
+.clear{clear:both;margin:0;padding:0;}
+.comment{ color:#9AA7BC;font-size:0.9em;}
+.TitlePage{ margin:50px 0 0 60px;color:#9AA7BC;font-family: serif;font-size:13px;text-transform:uppercase;}

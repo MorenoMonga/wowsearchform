@@ -1,0 +1,16 @@
+TODO - wow search form
+============================= 
+
+
+FIX:
+ - css SELECT of datepicker
+
+EXTEND...
+
+- add class name, for customize style,  to input text from customer configured SELECT OPTIONS 
+- submit field type for improve customer query 
+
+- set new HTML5 input type
+- check value (is number?, ecc..). http://www.texotela.co.uk/code/jquery/numeric/ or http://bassistance.de/jquery-plugins/jquery-plugin-validation/
+- autocomplete from list (or query)
+- overtext.  http://remy.bach.me.uk/superlabels_demo/  http://www.mkyong.com/jquery/jquery-watermark-effect-on-text-input/

@@ -1,0 +1,23 @@
+{
+	"name": "wowsearchform",
+	"title": "jQuery wow Search Form",
+	"description": "jQuery plugin for build dynamic nested search form.",
+	"keywords": [ "form", "search" ],
+	"version": "2.1.0",
+	"author": {
+		"name": "Moreno Monga",
+		"url": "https://github.com/MorenoMonga"
+	},
+	"licenses": [
+	{
+		"type": "MIT",
+		"url": "https://github.com/MorenoMonga/wowsearchform/blob/master/LICENSE"
+	}
+	],
+	"homepage": "https://github.com/MorenoMonga/wowsearchform",
+	"download": "https://github.com/MorenoMonga/wowsearchform",
+	"dependencies": {
+		"jquery": ">=1.9"
+	},
+	"demo": "http://wowsearchform.sourceforge.net/tests/index.html"
+} 

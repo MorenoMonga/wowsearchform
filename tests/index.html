@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>wow search form</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="content-style-type" content="text/css" />
+	<meta name="resource-type" content="document" />
+	<meta name="description" content="wow search form build an advance html search form" />
+	<meta name="keywords" content="wow, jquery, javascript, html, form, plugin, search" />
+	<meta name="author" content="Moreno Monga" />
+	<link rel="shortcut icon" href="favicon.png" />
+	<link rel="stylesheet" type="text/css" href="page.css" /><link rel="stylesheet" href="highlight/styles/default.css"><!-- Page css. Please ignore. -->
+
+<!-- BEGIN css required ->
+	<!--  wowsearchform theme css : choose your favorite theme -->
+	<!--
+	<link rel="stylesheet" type="text/css" href="../themes/more/wowsearchform-min.css" />
+	-->
+	
+	
+
+	<!-- add external style plugin -->
+	<link rel="stylesheet" type="text/css" href="../external/tooltip/tooltip.css" />
+	<link rel="stylesheet" type="text/css" href="../external/datepicker/css/datepicker-min.css" />
+
+<!-- END  css required -->
+
+
+	<!-- ONLY FOR TEST alternative plugin
+	<link rel="stylesheet" type="text/css" href="../external/jquery-ui-datepicker/css/flick/jquery-ui-1.9.2.custom.css" />
+	<link rel="stylesheet" type="text/css" href="../external/jdpicker/jdpicker.css" />
+	<link rel="stylesheet" type="text/css" href="../external/dateinput/css/skin1.css" />
+	<link rel="stylesheet" type="text/css" href="../external/zebradatepick/css/zebra_datepicker.css" />
+	<link rel="stylesheet" type="text/css" href="../external/datepick/redmond.datepick.css" />
+	-->
+
+	<!-- load for style, for example here use bootstrap 3 style !!!  -->
+	<!--
+	<link rel="stylesheet" type="text/css" href="../external/bootstrap/css/bootstrap.min.css" /> -->
+	<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
+
+
+</head>
+
+
+<body >
+
+	<div class="menu"><ul>
+		<li><a class="selected" href="index.html">Home</a></li>
+		<li><a href="http://sourceforge.net/projects/wowsearchform/" title="Download this tool">Download</a></li>
+		<li><a href="http://wowjquerydialog.sourceforge.net/" title="Yet another jQuery tool">&hearts; Wow Dialog</a></li>
+		<li><a href="http://programmatorepercaso.blogspot.com/">I'm</a></li>
+	</ul></div>
+
+<div class="wrapper clear">
+	<h1><img src="wow.png" />Wow Search Form <span></span></h1>
+	<p class="sommario">Dynamic html search form. Yet another jQuery plugin.</p>
+
+
+
+<h3 class="TitlePage"></h3>
+	<div class="item">
+		<h2>What</h2>
+		<p>A easy jQuery plugin to build dynamic search form.
+			<br>Compatible with <a href="http://getbootstrap.com/">Bootstrap 3</a> style.
+		</p>
+	</div>
+	<div class="item">
+		<h2>Why</h2>
+		<p>Nice and Easy to use.</p>
+	</div>
+	<div class="item">
+		<h2>Demo</h2>
+
+			<div class="formwrapper">
+
+				<!-- ..................................... Begin code example .....................................  -->
+
+				<!--  Set class "wowsearchform" to start wowsearchform plugin -->
+				<form id="myform" class="wowsearchform form-inline" action="test.php" method="post">
+
+					<!--   It must be a SELECT of all fields to search (the class identify is "wowFields" and the name must be an array)  -->
+					<select class="wowFields form-control" name="my_field[]">
+						<!--  NB: the class name identify the field type (text, number, date) -->
+						<option class="text" value="username">Name</option>
+						<option class="number" value="age">Age</option>
+						<option class="date" value="subscription">Subscription date</option>
+					</select>
+
+					<!--   It must be a INPUT TEXT (the name must be an array)  -->
+					<input type="text" class="form-control" name="my_value[]">
+
+					<!--  You can use class identify "wowNoClone" for others html element   -->
+					<button type="submit" class="wowNoClone btn btn-primary"><i class="glyphicon glyphicon-search"></i> Search</button>
+					<!--   wowsearchform reset button has the class identify "wowReset"   -->
+					<a class="wowReset btn btn-default">Reset</a>
+					<!-- or ...
+					<input type="submit" class="wowNoClone" value="Search">
+					<a class="wowNoClone btn btn-primary" onclick="my_submit();">Search</a>
+					 -->
+
+					 <!-- Example of others elements inside form -->
+					<small style="padding-left:3em;">Clone this comment for each filter</small>
+					<strong class="wowNoClone"> ...but not clone this!</strong>
+				</form>
+				<!--  ..................................... end code example  .....................................  -->
+
+			</div>
+
+	</div>
+	<div class="item">
+		<h2>How install</h2>
+
+		<h4>Step 1</h4>
+		<p>
+			Download last release of <a href="http://sourceforge.net/projects/wowsearchform/">WowSearchForm</a> plugin.
+			<br/>Download <a href="http://jquery.com/">jQuery</a> framework required <small>(WowSearchForm is tested with jQuery release 1.9.0 and 2.1.0)</small>
+		</p>
+
+		<h4>Step 2</h4>
+		<p>
+			Include JS files into your html page:
+			<pre><code >
+				&lt;!-- Before include jquery!!! --&gt;
+				&lt;script type="text/javascript" src="jquery-2.1.0.min.js" charset="utf-8" >&lt;/script>
+
+				&lt;!-- include wow search form javascript --&gt;
+				&lt;script type="text/javascript" src="../wowsearchform-min.js" charset="utf-8" >&lt;/script>
+			</code></pre>
+		</p>
+		<p>
+			Include your custom CSS files or you can use <a href="http://getbootstrap.com/">Bootstrap style</a> into your html page:
+			<pre><code>
+				&lt;link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
+			</code></pre>
+		</p>
+
+		<h4>Step 3</h4>
+		<p>
+		Inside your html page write a simple form like this:
+		<pre><code>
+				&lt;!--  Set class "wowsearchform" to start wowsearchform plugin -->
+				&lt;form id="myform" class="wowsearchform form-inline" action="test.php" method="post">
+
+					&lt;!--   It must be a SELECT of all fields to search (the class identify is "wowFields" and the name must be an array)  -->
+					&lt;select class="wowFields form-control" name="my_field[]">
+						&lt;!--  NB: the class name identify the field type (text, number, date) -->
+						&lt;option class="text" value="username">Name&lt;/option>
+						&lt;option class="number" value="age">Age&lt;/option>
+						&lt;option class="date" value="subscription">Subscription date&lt;/option>
+					&lt;/select>
+
+					&lt;!--   It must be a INPUT TEXT (the name must be an array)  -->
+					&lt;input type="text" class="form-control" name="my_value[]">
+
+					&lt;!--  You can use class identify "wowNoClone" for others html element   -->
+					&lt;button type="submit" class="wowNoClone btn btn-primary">&lt;i class="glyphicon glyphicon-search">&lt;/i> Search&lt;/button>
+					&lt;!--  wowsearchform reset button has the class identify "wowReset"   -->
+					&lt;a class="wowReset btn btn-default">Reset</a>
+
+					&lt;!-- Example of others elements inside form -->
+					&lt;small style="padding-left:5em;">Clone this comment for each filter&lt;/small>
+					&lt;strong class="wowNoClone"> ...but not clone this!&lt;/strong>
+				&lt;/form>
+		</code></pre>
+		</p>
+
+
+		<h4>Step 4</h4>
+		<p>You can install some plugins:</p>
+
+			<h5>Datepicker field</h5>
+			<p>
+				Include plugin JS files into your html page (fork by <a href="http://jqueryui.com">jQueryUI</a>):
+				<pre><code >
+					&lt;!-- After included jquery!!! --&gt;
+					&lt;!-script type="text/javascript" src="external/datepicker/js/datepicker-min.js" charset="utf-8" >&lt;!-/script>
+					&lt;!-- include datepicker localized (download other languages from http://jqueryui.com/download/) --&gt;
+					&lt;!-script type="text/javascript" src="external/datepicker/js/jquery.ui.datepicker-it.js" charset="utf-8" >&lt;!-/script>
+				</code></pre>
+				Include plugin CSS files into your html page:
+				<pre><code >
+					&lt;link rel="stylesheet" type="text/css" href="external/datepicker/css/datepicker-min.css" />
+				</code></pre>
+			</p>
+			<p>..and enable this plugin from wowsearchform options</p>
+				<!-- NON USED
+			<h5>Tooltip field</h5>
+			<p>
+				Include plugin JS files into your html page (by <a href="http://twitter.github.com/bootstrap/javascript.html">Bootstrap</a>):
+				<pre><code >
+					&lt;!-- After included jquery!!! --&gt;
+					&lt;!-script type="text/javascript" src="external/tooltip/bootstrap-tooltip.js" charset="utf-8" >&lt;!-/script>
+				</code></pre>
+				Include plugin CSS files into your html page:
+				<pre><code >
+					&lt;link rel="stylesheet" type="text/css" href="external/tooltip/tooltip.css" />
+				</code></pre>
+			</p>
+			<p>..and enable this plugin from wowsearchform options</p>
+			-->
+
+
+		<p>&nbsp;</p>
+		<p>
+			<strong>...for more information see this page source ;-)</strong>
+		</p>
+
+
+	</div>
+
+	<div class="item">
+		<h2>License</h2>
+		<p>WowSearchForm is open source software licensed under <a href="http://opensource.org/licenses/mit-license.php">MIT</a></p>
+		<p>The plugins used by WowSearchForm are open source software... see each license</p>
+	</div>
+
+
+</div>
+<div class="footer">WowSearchForm &copy; 2014 Moreno Monga - MIT license</div>
+
+
+
+
+<!-- BEGIN you must be include these -->
+
+	<!-- Before include jquery!!! -->
+	<!--
+	<script type="text/javascript" src="jquery-1.9.0.min.js" charset="utf-8" ></script>
+	-->
+	<script type="text/javascript" src="jquery-2.1.0.min.js" charset="utf-8" ></script>
+
+	<!-- include wow search form javascript -->
+	<script type="text/javascript" src="../wowsearchform-min.js" charset="utf-8" ></script>
+
+	<!-- you can localize wowsearchform plugin -->
+	<script type="text/javascript" src="../languages/wowsearchform_lang_en.js" charset="utf-8" ></script>
+
+	<!-- include external plugins for wowsearchform -->
+	<script type="text/javascript" src="../external/datepicker/js/datepicker-min.js" charset="utf-8" ></script>
+	
+		<!-- EXAMPLE to include datepicker localized (download other languages from http://jqueryui.com/download/)
+		<script type="text/javascript" src="../external/datepicker/js/jquery.ui.datepicker-it.js" charset="utf-8" ></script>
+		-->
+
+	<!-- ONLY FOR TEST alternative plugin
+
+	<script type="text/javascript" src="../external/tooltip/bootstrap-tooltip.js" charset="utf-8" ></script>
+	<script type="text/javascript" src="../external/jdpicker/jquery.jdpicker.js" charset="utf-8" ></script>
+	<script type="text/javascript" src="../external/dateinput/jquery.tools.min.js" charset="utf-8" ></script>
+	<script type="text/javascript" src="../external/zebradatepick/zebra_datepicker.js" charset="utf-8" ></script>
+	<script type="text/javascript" src="../external/datepick/jquery.datepick.js" charset="utf-8" ></script>
+	-->
+
+
+<!-- END you must be include these -->
+
+
+<!-- ignore -->
+<script type="text/javascript" src="highlight/highlight.pack.js" charset="utf-8" ></script>
+<script>hljs.initHighlightingOnLoad();
+//EXAMPLE $('#myform').wowsearchform("reset");
+</script>
+</body></html>
